@@ -84,7 +84,7 @@ class Postal extends Connection
      */
     public function getPostalZoneId()
     {
-        return $this->postalZoneId;
+        return (string)$this->postalZoneId;
     }
 
     /**
