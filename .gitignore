@@ -63,3 +63,5 @@ IpsThumb.db
 
 # ALL LOCAL CHANGES AFTER THIS LINE vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 /Packlink/test/test.ini
+
+/vendor/

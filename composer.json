@@ -1,0 +1,13 @@
+{
+    "name": "packlink/api-sdk",
+    "description": "Packlink's API PHP SDK",
+    "type": "library",
+    "license": "APACHE v2",
+    "authors": [
+        {
+            "name": "Packlink Engineering",
+            "email": "apisupport@packlink.com"
+        }
+    ],
+    "require": {}
+}
